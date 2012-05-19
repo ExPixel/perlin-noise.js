@@ -1,0 +1,1 @@
+This is a port of simplex noise from the aqsis project, written in Java, to javascript.  There are numerous cases, especially cpu geometry shading, where javascript noise on the cpu is useful.  Many thanks to Stefan Gustavson for the awesome code!
